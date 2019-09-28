@@ -1,0 +1,11 @@
+c:\Users\David\documents\visual studio 2012\Projects\Web\Web.Logica\bin\Debug\Web.Logica.dll
+c:\Users\David\documents\visual studio 2012\Projects\Web\Web.Logica\bin\Debug\Web.Logica.pdb
+c:\Users\David\documents\visual studio 2012\Projects\Web\Web.Logica\obj\Debug\Web.Logica.csprojResolveAssemblyReference.cache
+c:\Users\David\documents\visual studio 2012\Projects\Web\Web.Logica\obj\Debug\Web.Logica.dll
+c:\Users\David\documents\visual studio 2012\Projects\Web\Web.Logica\obj\Debug\Web.Logica.pdb
+C:\Users\Rudy de Paz\Documents\ING 10\Proyecto de graduación 2\PROYECTO\EJEMPLO\SQLStoreProcedures\Web\Web.Logica\bin\Debug\Web.Logica.dll
+C:\Users\Rudy de Paz\Documents\ING 10\Proyecto de graduación 2\PROYECTO\EJEMPLO\SQLStoreProcedures\Web\Web.Logica\bin\Debug\Web.Logica.pdb
+C:\Users\Rudy de Paz\Documents\ING 10\Proyecto de graduación 2\PROYECTO\EJEMPLO\SQLStoreProcedures\Web\Web.Logica\obj\Debug\Web.Logica.csprojAssemblyReference.cache
+C:\Users\Rudy de Paz\Documents\ING 10\Proyecto de graduación 2\PROYECTO\EJEMPLO\SQLStoreProcedures\Web\Web.Logica\obj\Debug\Web.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Rudy de Paz\Documents\ING 10\Proyecto de graduación 2\PROYECTO\EJEMPLO\SQLStoreProcedures\Web\Web.Logica\obj\Debug\Web.Logica.dll
+C:\Users\Rudy de Paz\Documents\ING 10\Proyecto de graduación 2\PROYECTO\EJEMPLO\SQLStoreProcedures\Web\Web.Logica\obj\Debug\Web.Logica.pdb
