@@ -49,6 +49,21 @@ namespace Web.Interfaces
             catch (Exception ex) { lblMensaje.Text = ex.Message; }
         }
 
+
+        protected void btnIngresar_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                lblMensaje.Text = "";
+                Logica.Clases.clsClientes obclsClientes = new Logica.Clases.clsClientes();
+
+                lblMensaje.Text = obclsClientes.stInsertarClientes(Convert.ToInt64(txtIdentificacion.Text),
+                    txtNombres.Text,
+                    txtApellidos.Text);
+            }
+            catch (Exception ex) { lblMensaje.Text = ex.Message; }
+        }
+
         protected void btnModificar_Click(object sender, EventArgs e)
         {
             try
