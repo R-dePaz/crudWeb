@@ -15,7 +15,7 @@ namespace Web.Logica.Clases
         SqlCommand sqlCommand = null;
         SqlConnection sqlConnection = null;
         SqlParameter sqlParameter = null;
-        SqlDataAdapter sqlDataAdapter = null;
+        //SqlDataAdapter sqlDataAdapter = null;
 
         public clsClientes()
         {
@@ -38,8 +38,8 @@ namespace Web.Logica.Clases
                 sqlCommand.Parameters.Add(new SqlParameter("@nIdentificacion", lnIdentificacion));
 
                 sqlCommand.ExecuteNonQuery();
-                sqlDataAdapter = new SqlDataAdapter(sqlCommand);
-                sqlDataAdapter.Fill(dsConsulta);
+                //sqlDataAdapter = new SqlDataAdapter(sqlCommand);
+                //sqlDataAdapter.Fill(dsConsulta);
 
                 return dsConsulta;
             }

@@ -75,12 +75,6 @@ namespace Web.Interfaces
             catch (Exception ex) { lblMensaje.Text = ex.Message; }
         }
 
-        static void  encrip_Click(object sender, EventArgs e)
-        {
-            string usuario = ConfigurationManager.AppSettings["Usuario"];
 
-            
-            //return Label1.Text = usuario;
-        }
     }
 }
