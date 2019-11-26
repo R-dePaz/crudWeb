@@ -57,7 +57,7 @@
                             <asp:BoundField HeaderText="Apellidos" DataField="clieApellidos" />
                         </Columns>
                         <EditRowStyle BackColor="#7C6F57" />
-                        <FooterStyle BackColor="#1C5E55" Font-Bold="True" ForeColor="White" />
+                        <FooterStyle BackColor="#1C5E55" Font-Bold="" ForeColor="White" />
                         <HeaderStyle BackColor="#1C5E55" Font-Bold="True" ForeColor="White" />
                         <PagerStyle BackColor="#666666" ForeColor="White" HorizontalAlign="Center" />
                         <RowStyle BackColor="#E3EAEB" />
