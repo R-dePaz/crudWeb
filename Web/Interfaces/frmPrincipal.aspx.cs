@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using System.Configuration;
 
 using System.Data;
 
@@ -72,6 +73,14 @@ namespace Web.Interfaces
                 lblMensaje.Text = obclsClientes.stEliminarClientes(Convert.ToInt64(txtIdentificacion.Text));
             }
             catch (Exception ex) { lblMensaje.Text = ex.Message; }
+        }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            string usuario = ConfigurationManager.AppSettings["Usuario"];
+
+            
+            Label1.Text = usuario;
         }
     }
 }
