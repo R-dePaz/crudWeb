@@ -24,6 +24,7 @@ namespace Web.Interfaces
                 lblMensaje.Text = "";
                 if (string.IsNullOrEmpty(txtIdentificacion.Text))
                 
+
                     throw new Exception("Ingrese identificacion");
                 
                     Logica.Clases.clsClientes obclsClientes = new Logica.Clases.clsClientes();
