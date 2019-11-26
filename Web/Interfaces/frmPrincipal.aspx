@@ -36,7 +36,7 @@
                     <asp:Button ID="btnIngresar" runat="server" Text="Ingresar" OnClick="btnIngresar_Click" />
                     <asp:Button ID="btnModificar" runat="server" Text="Modificar" OnClick="btnModificar_Click" />
                     <asp:Button ID="btnEliminar" runat="server" Text="Eliminar" OnClick="btnEliminar_Click" />
-                    <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Button" />
+                    <asp:Button ID="Button1" runat="server" OnClick="encrip_Click" Text="Button" />
                     <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
                 </td>
             </tr>

@@ -9,3 +9,9 @@ C:\Users\Rudy de Paz\Documents\ING 10\Proyecto de graduación 2\PROYECTO\EJEMPLO
 C:\Users\Rudy de Paz\Documents\ING 10\Proyecto de graduación 2\PROYECTO\EJEMPLO\SQLStoreProcedures\Web\Web.Logica\obj\Debug\Web.Logica.csproj.CoreCompileInputs.cache
 C:\Users\Rudy de Paz\Documents\ING 10\Proyecto de graduación 2\PROYECTO\EJEMPLO\SQLStoreProcedures\Web\Web.Logica\obj\Debug\Web.Logica.dll
 C:\Users\Rudy de Paz\Documents\ING 10\Proyecto de graduación 2\PROYECTO\EJEMPLO\SQLStoreProcedures\Web\Web.Logica\obj\Debug\Web.Logica.pdb
+C:\Users\Rudy de Paz\Source\Repos\R-dePaz\crudWeb\Web.Logica\bin\Debug\Web.Logica.dll
+C:\Users\Rudy de Paz\Source\Repos\R-dePaz\crudWeb\Web.Logica\bin\Debug\Web.Logica.pdb
+C:\Users\Rudy de Paz\Source\Repos\R-dePaz\crudWeb\Web.Logica\obj\Debug\Web.Logica.csprojAssemblyReference.cache
+C:\Users\Rudy de Paz\Source\Repos\R-dePaz\crudWeb\Web.Logica\obj\Debug\Web.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Rudy de Paz\Source\Repos\R-dePaz\crudWeb\Web.Logica\obj\Debug\Web.Logica.dll
+C:\Users\Rudy de Paz\Source\Repos\R-dePaz\crudWeb\Web.Logica\obj\Debug\Web.Logica.pdb

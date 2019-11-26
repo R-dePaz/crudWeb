@@ -75,7 +75,7 @@ namespace Web.Interfaces
             catch (Exception ex) { lblMensaje.Text = ex.Message; }
         }
 
-        protected void Button1_Click(object sender, EventArgs e)
+        protected void encrip_Click(object sender, EventArgs e)
         {
             string usuario = ConfigurationManager.AppSettings["Usuario"];
 

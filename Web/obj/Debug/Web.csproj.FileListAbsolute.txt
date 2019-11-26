@@ -15,3 +15,13 @@ C:\Users\Rudy de Paz\Documents\ING 10\Proyecto de graduación 2\PROYECTO\EJEMPLO
 C:\Users\Rudy de Paz\Documents\ING 10\Proyecto de graduación 2\PROYECTO\EJEMPLO\SQLStoreProcedures\Web\Web\obj\Debug\Web.csproj.CopyComplete
 C:\Users\Rudy de Paz\Documents\ING 10\Proyecto de graduación 2\PROYECTO\EJEMPLO\SQLStoreProcedures\Web\Web\obj\Debug\Web.dll
 C:\Users\Rudy de Paz\Documents\ING 10\Proyecto de graduación 2\PROYECTO\EJEMPLO\SQLStoreProcedures\Web\Web\obj\Debug\Web.pdb
+C:\Users\Rudy de Paz\Source\Repos\R-dePaz\crudWeb\Web\bin\Web.dll.config
+C:\Users\Rudy de Paz\Source\Repos\R-dePaz\crudWeb\Web\bin\Web.dll
+C:\Users\Rudy de Paz\Source\Repos\R-dePaz\crudWeb\Web\bin\Web.pdb
+C:\Users\Rudy de Paz\Source\Repos\R-dePaz\crudWeb\Web\bin\Web.Logica.dll
+C:\Users\Rudy de Paz\Source\Repos\R-dePaz\crudWeb\Web\bin\Web.Logica.pdb
+C:\Users\Rudy de Paz\Source\Repos\R-dePaz\crudWeb\Web\obj\Debug\Web.csprojAssemblyReference.cache
+C:\Users\Rudy de Paz\Source\Repos\R-dePaz\crudWeb\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\Rudy de Paz\Source\Repos\R-dePaz\crudWeb\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\Rudy de Paz\Source\Repos\R-dePaz\crudWeb\Web\obj\Debug\Web.dll
+C:\Users\Rudy de Paz\Source\Repos\R-dePaz\crudWeb\Web\obj\Debug\Web.pdb
