@@ -22,12 +22,17 @@ namespace Web.Interfaces
             try
             {
                 lblMensaje.Text = "";
-                if (string.IsNullOrEmpty(txtIdentificacion.Text)) throw new Exception("Ingrese identificacion");
-
-                Logica.Clases.clsClientes obclsClientes = new Logica.Clases.clsClientes();
-                DataSet dsConsulta = obclsClientes.stConsultarClientes(Convert.ToInt64(txtIdentificacion.Text));
-
-                if (dsConsulta.Tables[0].Rows.Count == 0) gvwDatos.DataSource = null;
+                if (string.IsNullOrEmpty(txtIdentificacion.Text))
+                {
+                    throw new Exception("Ingrese identificacion");
+                }
+                    Logica.Clases.clsClientes obclsClientes = new Logica.Clases.clsClientes();
+                    DataSet dsConsulta = obclsClientes.stConsultarClientes(Convert.ToInt64(txtIdentificacion.Text));
+                
+                if (dsConsulta.Tables[0].Rows.Count == 0)
+                
+                    gvwDatos.DataSource = null;
+                
                 else gvwDatos.DataSource = dsConsulta;
 
                 gvwDatos.DataBind();
